@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrettyFaceCrystal
 - 👀 I’m interested in coding my own roblox game
 - 🌱 I’m currently learning to code python
-- 💞️ I’m looking to collaborate on making games with celbirty
+- 💞️ I’m looking to collaborate on making games with a famous person
 - 📫 How to reach me whatsapp x
 
 <!---
